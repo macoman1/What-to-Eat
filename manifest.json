@@ -1,0 +1,19 @@
+{
+	"dir" : "ltr",
+	"lang" : "English",
+	"name" : "What to Eat?",
+	"scope" : "/What-to-Eat/",
+	"display" : "standalone",
+	"start_url" : "https://macoman1.github.io/What-to-Eat/",
+	"short_name" : "What to Eat?",
+	"theme_color" : "transparent",
+	"description" : "My first attempt at building my app",
+	"orientation" : "any",
+	"background_color" : "#CFE0CE",
+	"related_applications" : [],
+	"prefer_related_applications" : false,
+	"icons" : [],
+	"url" : "https://macoman1.github.io/What-to-Eat/",
+	"screenshots" : [],
+	"generated" : "true"
+}
